@@ -1,0 +1,29 @@
+Arad, Zerind, 374, 75, false
+Arad, Sibiu, 253, 140, false
+Arad, Timisoara, 329, 118, false
+Zerind, Arad,366, 75, false
+Zerind, Oradea, 380, 71, false
+Oradea, Zerind, 374, 71, false
+Oradea, Sibiu, 253, 151, false
+Sibiu, Arad, 366, 140, false
+Sibiu, Fagaras, 176, 99, false
+Sibiu, Rimnicu Vilcea, 193, 80, false
+Fagaras, Sibiu, 253, 99, false
+Fagaras, Bucarest, 0, 211, false
+Rimnicu vilcea, Sibiu, 253, 80, false
+Rimnicu Vilcea, Craiova, 160, 146, false
+Rimnicu Vilcea, Pitesti, 100, 97, false
+Pitesti, Rimnicu Vilcea, 193, 97, false
+Pitesti, Bucarest, 0, 101, false
+Pitesti, Craiova, 160, 138, false
+Craiova, Rimnicu Vilcea, 193, 146, false
+Craiova, Pitesti, 100, 138, false
+Craiova, Drobeta, 242, 120, false
+Drobeta, Craiova, 160, 120, false
+Drobeta, Mehadia, 241, 75, false
+Mehadia, Drobeta, 242, 75, false
+Mehadia, Lugoj, 244, 70, false
+Lugoj, Mehadia, 241, 70, false
+Lugoj, Timisoara, 329, 111, false
+Timisoara, Arad, 366, 118, false
+Timisoara, Lugoj, 244, 111, false
